@@ -1,4 +1,4 @@
 {
-	"isEnablePhone": false,
-	"isEnableName": false,
+	"isEnablePhone": true,
+	"isEnableName": true,
 	"isEnableRedPackage": true }
