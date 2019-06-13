@@ -1,4 +1,5 @@
 {
 	"isEnablePhone": false,
 	"isEnableName": false,
-	"isEnableRedPackage": true }
+	"isEnableRedPackage": true,
+	"isEnableRedPackage_oilprice": false }
