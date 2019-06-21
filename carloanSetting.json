@@ -2,6 +2,6 @@
 	"isEnablePhone": false,
 	"isEnableName": false,
 	"isEnableRedPackage": true,
-	"isEnableRedPackage_oilprice": false,
-	"isEnableLifestyle": false 
+	"isEnableRedPackage_oilprice": true,
+	"isEnableLifestyle": true 
 }
